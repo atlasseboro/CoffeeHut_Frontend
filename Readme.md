@@ -1,8 +1,8 @@
- # Product catalog
-
- # Discount plans
-
- # Testimonials
+ # Product catalog with descriptions
+ # Pricing plans
+ # Best-selling products
+ # Discount plans 
+ # User testimonials
 
 
 
