@@ -1,0 +1,3 @@
+- New loyal user
+   - new coffeehut_wallet payment option
+   - Discount 10 %
